@@ -91,3 +91,5 @@ Développer de nouveaux modèles génératifs intégrant la dimension spectrale.
 Publier ce travail comme preuve reproductible et base de discussion scientifique.
 
 Merci à toutes les personnes qui ont contribué à ce projet.
+
+MIT License
